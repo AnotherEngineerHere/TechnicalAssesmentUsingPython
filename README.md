@@ -10,7 +10,7 @@ The other one was a stairs, snake game, the instructions will be uploaded in the
 
 For runnig the project is necessary to instal Python 3.10
 
-I use Spyder, but it will work if your local installation by using python runnig
+I use Spyder, but it will work if your local installation by using python running
 
 Both project have bonuses, the first one is not done, the second one the only one done was if the player has a position over 25 it gets back to a previous position
 
